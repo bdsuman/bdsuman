@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bdsuman
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning Larvel
-- 💞️ I’m looking to collaborate on Core PHP and OOP
+- 👀 I’m interested in PHP/Laravel 
+- 🌱 I’m currently learning Vue
+- 💞️ I’m looking to collaborate on Core PHP and Laravel
 - 📫 How to reach me https://coderstream.com or email mesuman@yahoo.com
 
 <!---
