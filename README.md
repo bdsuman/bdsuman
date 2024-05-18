@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/bdsuman"><img src="https://api.daily.dev/devcards/v2/nlZdsfCMGKztdi3RHwlmZ.png?type=wide&r=e6s" width="652" alt="Suman Chandra Sen's Dev Card"/></a>
-
 - 👋 Hi, I’m @bdsuman
 - 👀 I’m interested in PHP/Laravel 
 - 🌱 I’m currently learning Vue
