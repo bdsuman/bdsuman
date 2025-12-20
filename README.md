@@ -10,7 +10,7 @@
 
 I’m a results-driven **Full-Stack Software Engineer** specializing in **Core PHP, Laravel, and Vue.js**, with hands-on experience building **scalable SaaS platforms, enterprise systems, and API-driven applications**.
 
-I focus on **clean architecture, performance optimization, and secure backend systems**, delivering real-world solutions used in production environments.
+I focus on **clean architecture, performance optimization, and secure backend systems**, delivering real-world solutions actively used in production.
 
 ---
 
@@ -24,24 +24,31 @@ I focus on **clean architecture, performance optimization, and secure backend sy
 
 ---
 
-## 🏗️ Notable Projects
+## 🏗️ Notable Projects (Live)
 
 ### 🎓 DUTT University Management System (Enterprise SaaS)
 🔗 https://dutt.edu.bd/  
-- Role-based academic & administrative system  
+- Role-based academic & administrative platform  
 - Secure authentication and scalable backend design  
-- Laravel + Vue + MySQL  
+- **Tech:** Laravel, Vue.js, MySQL  
 
-### 🤖 DeepGrow – AI-Powered Wellness SaaS
+### 🤖 DeepGrow – AI-Powered Mental Wellness SaaS
+🔗 https://deepgrow.ai/  
 - AI-driven content generation & voice synthesis  
-- REST APIs for mobile & web clients  
+- REST APIs for mobile and web clients  
+- **Tech:** Laravel, Vue 3, AI APIs  
 
 ### ⏱️ Zytrack – Productivity & Time Tracking Platform
-- Performance-optimized analytics dashboards  
-- Reduced API latency through query optimization  
+🔗 https://zytrack.ch/  
+- Time tracking & analytics dashboards  
+- API performance optimization and refactoring  
+- **Tech:** Laravel, Vue 3, Sanctum  
 
-### 🛒 ShopySwiss – E-commerce Platform
+### 🛒 ShopySwiss – E-commerce & Order Management System
+🔗 https://shopy.swiss/  
 - Multi-role authentication & order lifecycle management  
+- Inventory and order tracking modules  
+- **Tech:** Laravel, Vue, JWT  
 
 ---
 
@@ -54,9 +61,9 @@ I focus on **clean architecture, performance optimization, and secure backend sy
 
 ## 🤝 Open to Opportunities
 
-- Laravel & Core PHP projects  
+- Laravel & Core PHP development  
 - SaaS & enterprise applications  
-- Backend architecture & optimization  
+- Backend architecture & performance optimization  
 - Remote / freelance / full-time roles  
 
 ---
