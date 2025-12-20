@@ -8,47 +8,70 @@
 
 ## 🧑‍💼 Professional Overview
 
-I’m a results-driven **Full-Stack Software Engineer** specializing in **Core PHP, Laravel, and Vue.js**, with hands-on experience building **scalable SaaS platforms, enterprise systems, and API-driven applications**.
+I am a results-driven **Full-Stack Software Engineer** with strong expertise in **Core PHP, Laravel, and Vue.js**, experienced in building **scalable SaaS platforms, enterprise systems, and API-driven applications**.
 
-I focus on **clean architecture, performance optimization, and secure backend systems**, delivering real-world solutions actively used in production.
+My work focuses on **clean architecture, performance optimization, and secure backend design**, delivering reliable solutions that are actively used in real production environments.
 
 ---
 
 ## 🛠️ Core Skills
 
-- **Backend:** PHP (Expert), Laravel 9/10+, REST APIs, JWT, Sanctum  
+- **Backend:** PHP (Expert), Core PHP, Laravel 9/10+, REST APIs, JWT, Sanctum  
 - **Frontend:** Vue.js 3, Inertia.js, Tailwind CSS, JavaScript (ES6+)  
 - **Database:** MySQL, PostgreSQL, Eloquent ORM, Query Optimization  
 - **Architecture:** MVC, Service Layer, Repository Pattern  
-- **Tools:** Git, Docker (Basic), Postman, Composer, NPM  
+- **Tools:** Git (GitHub/GitLab), Docker (Basic), Postman, Composer, NPM  
 
 ---
 
-## 🏗️ Notable Projects (Live)
+## 🏗️ Notable Projects (Live & Production)
 
-### 🎓 DUTT University Management System (Enterprise SaaS)
+### 🎓 School Management System (Enterprise SaaS)
 🔗 https://dutt.edu.bd/  
-- Role-based academic & administrative platform  
-- Secure authentication and scalable backend design  
-- **Tech:** Laravel, Vue.js, MySQL  
+
+- Enterprise-grade school management system in continuous production use since **2019**
+- Complete academic & administrative workflow with **role-based access** (Admin, Teacher, Student)
+- Implemented a comprehensive **result processing engine**:
+  - Marksheet generation
+  - Tabulation sheets
+  - Merit lists and fail lists
+  - Multi-year academic reporting
+- Designed to handle **large historical datasets** with optimized SQL queries
+- Secure authentication and scalable backend architecture
+- **Tech:** Core PHP, MySQL
+
+---
 
 ### 🤖 DeepGrow – AI-Powered Mental Wellness SaaS
 🔗 https://deepgrow.ai/  
-- AI-driven content generation & voice synthesis  
-- REST APIs for mobile and web clients  
-- **Tech:** Laravel, Vue 3, AI APIs  
+
+- AI-driven wellness platform integrating **GPT-based content generation** and **voice synthesis**
+- Designed RESTful APIs for mobile and web clients
+- Implemented personalization, journaling, and automation features
+- Production system with real user engagement
+- **Tech:** Laravel, Vue 3, AI APIs
+
+---
 
 ### ⏱️ Zytrack – Productivity & Time Tracking Platform
 🔗 https://zytrack.ch/  
-- Time tracking & analytics dashboards  
-- API performance optimization and refactoring  
-- **Tech:** Laravel, Vue 3, Sanctum  
+
+- SaaS platform for time tracking and productivity analytics
+- Built modular dashboards with real-time reporting
+- Reduced API latency through query optimization and backend refactoring
+- Designed secure authentication and scalable API structure
+- **Tech:** Laravel, Vue 3, Sanctum
+
+---
 
 ### 🛒 ShopySwiss – E-commerce & Order Management System
 🔗 https://shopy.swiss/  
-- Multi-role authentication & order lifecycle management  
-- Inventory and order tracking modules  
-- **Tech:** Laravel, Vue, JWT  
+
+- Full-featured e-commerce and order management platform
+- Implemented **multi-role authentication** and secure order workflows
+- Developed inventory management and order lifecycle modules
+- Designed clean API-to-frontend communication
+- **Tech:** Laravel, Vue.js, JWT
 
 ---
 
@@ -61,10 +84,11 @@ I focus on **clean architecture, performance optimization, and secure backend sy
 
 ## 🤝 Open to Opportunities
 
-- Laravel & Core PHP development  
-- SaaS & enterprise applications  
-- Backend architecture & performance optimization  
-- Remote / freelance / full-time roles  
+I am open to:
+- Laravel & Core PHP development roles  
+- SaaS and enterprise application projects  
+- Backend architecture, refactoring, and performance optimization  
+- Remote, freelance, or full-time opportunities  
 
 ---
 
