@@ -4,13 +4,9 @@
 ---
 ## 📈 GitHub Metrics Overview
 
-| Profile Metrics | Activity Graph |
-|-----------------|----------------|
-| ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bdsuman&theme=tokyonight) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bdsuman&theme=tokyo-night) |
-
-| Languages | Productivity |
-|----------|--------------|
-| ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bdsuman&theme=tokyonight) | ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bdsuman&theme=tokyonight) |
+| Profile Metrics | Languages | Productivity |
+|----------|--------------|----------------|
+| ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bdsuman&theme=tokyonight) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bdsuman&theme=tokyonight) | ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bdsuman&theme=tokyonight) |
 
 
 ## 🧠 Core Skill Matrix
