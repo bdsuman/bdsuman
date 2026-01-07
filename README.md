@@ -2,6 +2,20 @@
 ### Professional Full-Stack Software Engineer (Laravel · Vue.js)
 
 ---
+## 📈 GitHub Metrics Overview
+
+| Profile Metrics | Activity Graph |
+|-----------------|----------------|
+| ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bdsuman&theme=tokyonight) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bdsuman&theme=tokyo-night) |
+
+| Languages | Productivity |
+|----------|--------------|
+| ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bdsuman&theme=tokyonight) | ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bdsuman&theme=tokyonight) |
+
+
+| Profile Stats | Activity Graph |
+|--------------|----------------|
+| ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bdsuman&theme=tokyonight) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bdsuman&theme=tokyo-night) |
 
 ## 🧠 Core Skill Matrix
 
@@ -40,13 +54,26 @@ JavaScript     █████████████████░░░ 80%
 MySQL          █████████████████░░░ 80%
 PostgreSQL     ████████████████░░░░ 75%
 Tailwind CSS   █████████████████░░░ 80%
+```
+### 📝 Graph Annotation
 
-## 🧩 Architecture & Engineering Practices
-![MVC](https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge)
-![Service Layer](https://img.shields.io/badge/Service_Layer-Implemented-blue?style=for-the-badge)
-![Repository](https://img.shields.io/badge/Repository_Pattern-Used-blue?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
-![API First](https://img.shields.io/badge/API_First_Design-Yes-blue?style=for-the-badge)
+- **90–95% (Expert)**  
+  Daily production usage, system architecture design, and performance optimization
+
+- **80–89% (Advanced)**  
+  Complex feature development, integrations, and performance tuning
+
+- **70–79% (Proficient)**  
+  Confident real-world usage with growing depth and consistency
+
+### 🧩 Architecture & Engineering Practices
+
+![MVC](https://img.shields.io/badge/MVC-blue?style=for-the-badge)
+![ServiceLayer](https://img.shields.io/badge/Service_Layer-blue?style=for-the-badge)
+![RepositoryPattern](https://img.shields.io/badge/Repository_Pattern-blue?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-blue?style=for-the-badge)
+![APIFirst](https://img.shields.io/badge/API_First-blue?style=for-the-badge)
+
 
 ## 🛠️ Tools & Workflow 
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git)
@@ -55,5 +82,14 @@ Tailwind CSS   █████████████████░░░ 80%
 ![Composer](https://img.shields.io/badge/Composer-Advanced-885630?style=for-the-badge)
 ![NPM](https://img.shields.io/badge/NPM-Advanced-CB3837?style=for-the-badge&logo=npm)
 
-📈 Live GitHub Metrics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bdsuman&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bdsuman&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdsuman&layout=compact&theme=tokyonight&hide_border=true"/> </p> ```
+
+## 📬 Contact Information
+
+- 📧 **Email:** mesuman@yahoo.com  
+- 📱 **Mobile / WhatsApp:** +880 1921 440084  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/bdsuman/  
+- 🌐 **Portfolio:** https://bdsuman.github.io  
+- 💼 **Coderstream:** https://coderstream.com  
+- 🐙 **GitHub:** https://github.com/bdsuman  
+- 📍 **Location:** Dhaka, Bangladesh (Remote Friendly)
+
