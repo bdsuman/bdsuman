@@ -1,90 +1,52 @@
 # 👋 Hi, I'm Suman Chandra Sen (@bdsuman)
 
-### Professional Full-Stack Software Engineer  
+### 🚀 Professional Full-Stack Software Engineer  
 **Laravel · Vue.js · PHP · SaaS · REST APIs**
 
 📍 Dhaka, Bangladesh | 🌍 Remote Friendly  
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I am a **dedicated Full-Stack Software Engineer** specializing in **Laravel and Vue.js**, with strong experience building **production-ready SaaS platforms, enterprise systems, and API-driven applications**.
+I’m a **dedicated Full-Stack Software Engineer** specializing in **Laravel & Vue.js**, with real-world experience building **scalable SaaS platforms, enterprise systems, and API-driven applications** used in production.
 
 I focus on:
-- Clean & scalable backend architecture  
-- Performance-optimized database design  
-- Secure authentication & API development  
-- Maintainable, real-world codebases  
+- Clean backend architecture  
+- Secure & scalable APIs  
+- Performance-optimized databases  
+- Maintainable, production-ready code  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack (At a Glance)
 
 ### Backend
-- PHP (Core PHP, OOP)
-- Laravel (9 / 10+)
-- RESTful API Development
-- Authentication: JWT, Laravel Sanctum
-- Secure & Scalable Backend Systems
+![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel)
 
 ### Frontend
-- Vue.js 3
-- Inertia.js
-- JavaScript (ES6+)
-- Tailwind CSS
-- Responsive UI Design
+![Vue.js](https://img.shields.io/badge/Vue.js-Advanced-4FC08D?style=for-the-badge&logo=vue.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-Advanced-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### Database & Performance
-- MySQL
-- PostgreSQL
-- Query Optimization
-- Indexing & Large Dataset Handling
-- Eloquent ORM
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql)
 
-### Architecture & Best Practices
-- MVC Architecture
-- Service Layer
-- Repository Pattern
-- SOLID Principles
-- API-First Design
-
-### Tools & Workflow
-- Git (GitHub, GitLab)
-- Docker (Basic)
-- Postman
-- Composer & NPM
-- Linux-based Development Environment
+### Tools
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-Basic-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
-## 🏗️ Production Experience
+## 📊 Skill Visualization (Client-Friendly)
 
-I have built and maintained **live production systems** including:
-
-- Enterprise School Management Systems
-- AI-powered SaaS platforms
-- Productivity & Time Tracking Tools
-- E-commerce & Order Management Systems
-
-These systems handle **real users, large datasets, and long-term maintenance**.
-
-👉 **View detailed projects & live demos:**  
-🔗 https://bdsuman.github.io
-
----
-
-## 🤝 Open to Opportunities
-
-I am open to:
-- Laravel / PHP Development Roles
-- SaaS & Enterprise Application Projects
-- Backend Refactoring & Performance Optimization
-- Remote · Freelance · Full-Time Work
-
-📧 **Email:** mesuman@yahoo.com  
-🌐 **Portfolio:** https://bdsuman.github.io  
-
----
-
-⭐ *Feel free to explore my repositories or connect with me.*
+### 🚀 Primary Skill Focus
+```text
+Laravel        ████████████████████ 95%
+PHP            ████████████████████ 95%
+Vue.js         ██████████████████░░ 85%
+REST APIs      ██████████████████░░ 85%
+MySQL          █████████████████░░░ 80%
+PostgreSQL     ████████████████░░░░ 75%
+Tailwind CSS   █████████████████░░░ 80%
