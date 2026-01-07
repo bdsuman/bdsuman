@@ -47,16 +47,13 @@ MySQL          █████████████████░░░ 80%
 PostgreSQL     ████████████████░░░░ 75%
 Tailwind CSS   █████████████████░░░ 80%
 ```
-### 📝 Graph Annotation
+### 📊 Skill Level Graph
 
-- **90–95% (Expert)**  
-  Daily production usage, system architecture design, and performance optimization
-
-- **80–89% (Advanced)**  
-  Complex feature development, integrations, and performance tuning
-
-- **70–79% (Proficient)**  
-  Confident real-world usage with growing depth and consistency
+| Level | Visual | Range | Meaning |
+|-----|--------|------|--------|
+| **Expert** | ████████████████████ | 90–95% | Daily production usage, architecture & optimization |
+| **Advanced** | █████████████████░░ | 80–89% | Complex features, integrations & performance tuning |
+| **Proficient** | ███████████████░░░░ | 70–79% | Confident real-world usage with growing depth |
 
 ### 🧩 Architecture & Engineering Practices
 
