@@ -1,100 +1,90 @@
 # 👋 Hi, I'm Suman Chandra Sen (@bdsuman)
 
-🚀 **Full-Stack Software Engineer**  
-💻 PHP | Laravel | Vue.js | SaaS | REST APIs  
-📍 Dhaka, Bangladesh
+### Professional Full-Stack Software Engineer  
+**Laravel · Vue.js · PHP · SaaS · REST APIs**
+
+📍 Dhaka, Bangladesh | 🌍 Remote Friendly  
 
 ---
 
-## 🧑‍💼 Professional Overview
+## 🚀 About Me
 
-I am a results-driven **Full-Stack Software Engineer** with strong expertise in **Core PHP, Laravel, and Vue.js**, experienced in building **scalable SaaS platforms, enterprise systems, and API-driven applications**.
+I am a **dedicated Full-Stack Software Engineer** specializing in **Laravel and Vue.js**, with strong experience building **production-ready SaaS platforms, enterprise systems, and API-driven applications**.
 
-My work focuses on **clean architecture, performance optimization, and secure backend design**, delivering reliable solutions that are actively used in real production environments.
-
----
-
-## 🛠️ Core Skills
-
-- **Backend:** PHP (Expert), Core PHP, Laravel 9/10+, REST APIs, JWT, Sanctum  
-- **Frontend:** Vue.js 3, Inertia.js, Tailwind CSS, JavaScript (ES6+)  
-- **Database:** MySQL, PostgreSQL, Eloquent ORM, Query Optimization  
-- **Architecture:** MVC, Service Layer, Repository Pattern  
-- **Tools:** Git (GitHub/GitLab), Docker (Basic), Postman, Composer, NPM  
+I focus on:
+- Clean & scalable backend architecture  
+- Performance-optimized database design  
+- Secure authentication & API development  
+- Maintainable, real-world codebases  
 
 ---
 
-## 🏗️ Notable Projects (Live & Production)
+## 🛠️ Technical Skills
 
-### 🎓 School Management System (Enterprise SaaS)
-🔗 https://dutt.edu.bd/  
+### Backend
+- PHP (Core PHP, OOP)
+- Laravel (9 / 10+)
+- RESTful API Development
+- Authentication: JWT, Laravel Sanctum
+- Secure & Scalable Backend Systems
 
-- Enterprise-grade school management system in continuous production use since **2019**
-- Complete academic & administrative workflow with **role-based access** (Admin, Teacher, Student)
-- Implemented a comprehensive **result processing engine**:
-  - Marksheet generation
-  - Tabulation sheets
-  - Merit lists and fail lists
-  - Multi-year academic reporting
-- Designed to handle **large historical datasets** with optimized SQL queries
-- Secure authentication and scalable backend architecture
-- **Tech:** Core PHP, MySQL
+### Frontend
+- Vue.js 3
+- Inertia.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Responsive UI Design
 
----
+### Database & Performance
+- MySQL
+- PostgreSQL
+- Query Optimization
+- Indexing & Large Dataset Handling
+- Eloquent ORM
 
-### 🤖 DeepGrow – AI-Powered Mental Wellness SaaS
-🔗 https://deepgrow.ai/  
+### Architecture & Best Practices
+- MVC Architecture
+- Service Layer
+- Repository Pattern
+- SOLID Principles
+- API-First Design
 
-- AI-driven wellness platform integrating **GPT-based content generation** and **voice synthesis**
-- Designed RESTful APIs for mobile and web clients
-- Implemented personalization, journaling, and automation features
-- Production system with real user engagement
-- **Tech:** Laravel, Vue 3, AI APIs
-
----
-
-### ⏱️ Zytrack – Productivity & Time Tracking Platform
-🔗 https://zytrack.ch/  
-
-- SaaS platform for time tracking and productivity analytics
-- Built modular dashboards with real-time reporting
-- Reduced API latency through query optimization and backend refactoring
-- Designed secure authentication and scalable API structure
-- **Tech:** Laravel, Vue 3, Sanctum
-
----
-
-### 🛒 ShopySwiss – E-commerce & Order Management System
-🔗 https://shopy.swiss/  
-
-- Full-featured e-commerce and order management platform
-- Implemented **multi-role authentication** and secure order workflows
-- Developed inventory management and order lifecycle modules
-- Designed clean API-to-frontend communication
-- **Tech:** Laravel, Vue.js, JWT
+### Tools & Workflow
+- Git (GitHub, GitLab)
+- Docker (Basic)
+- Postman
+- Composer & NPM
+- Linux-based Development Environment
 
 ---
 
-## 🌐 Portfolio Website
+## 🏗️ Production Experience
 
-👉 **https://bdsuman.github.io**  
-(Projects, skills, and experience in detail)
+I have built and maintained **live production systems** including:
+
+- Enterprise School Management Systems
+- AI-powered SaaS platforms
+- Productivity & Time Tracking Tools
+- E-commerce & Order Management Systems
+
+These systems handle **real users, large datasets, and long-term maintenance**.
+
+👉 **View detailed projects & live demos:**  
+🔗 https://bdsuman.github.io
 
 ---
 
 ## 🤝 Open to Opportunities
 
 I am open to:
-- Laravel & Core PHP development roles  
-- SaaS and enterprise application projects  
-- Backend architecture, refactoring, and performance optimization  
-- Remote, freelance, or full-time opportunities  
+- Laravel / PHP Development Roles
+- SaaS & Enterprise Application Projects
+- Backend Refactoring & Performance Optimization
+- Remote · Freelance · Full-Time Work
+
+📧 **Email:** mesuman@yahoo.com  
+🌐 **Portfolio:** https://bdsuman.github.io  
 
 ---
 
-## 📬 Contact
-
-🌐 https://coderstream.com  
-📧 mesuman@yahoo.com  
-
-⭐ _Feel free to explore my repositories or connect with me._
+⭐ *Feel free to explore my repositories or connect with me.*
