@@ -13,10 +13,6 @@
 | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bdsuman&theme=tokyonight) | ![Commit Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bdsuman&theme=tokyonight) |
 
 
-| Profile Stats | Activity Graph |
-|--------------|----------------|
-| ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bdsuman&theme=tokyonight) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bdsuman&theme=tokyo-night) |
-
 ## 🧠 Core Skill Matrix
 
 ### Backend & APIs
